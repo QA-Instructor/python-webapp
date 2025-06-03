@@ -1,5 +1,5 @@
 from flask import Flask
-from fastapi_csrf_protect import CsrfProtect
+from flask_wtf.csrf import CSRFProtect
 
 
 app = Flask(__name__)
