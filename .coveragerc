@@ -1,3 +1,4 @@
 [run]
-omit = tests/*
-omit= test_bye.py
+omit = 
+    tests/*
+    test_bye.py
