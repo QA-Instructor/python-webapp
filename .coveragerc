@@ -16,4 +16,5 @@ omit =
         test_bye.py
         *test*
         */usr/local/lib*
+        application/__init__.py
         */__init__.py
