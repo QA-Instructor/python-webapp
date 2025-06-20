@@ -1,0 +1,8 @@
+.idea/
+venv
+__pycache__
+scan.bat
+.venv
+.scannerwork
+coverage.xml
+.old_coveragerc
